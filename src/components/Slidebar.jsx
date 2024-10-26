@@ -31,7 +31,7 @@ const Slidebar = () => {
             transition={{ duration: 1, ease: "easeIn" }}
             className="font-serif"
           >
-            Full Stack Developer
+            Front End Developer
           </motion.h2>
         </div>
       </div>
