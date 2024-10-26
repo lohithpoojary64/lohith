@@ -48,7 +48,7 @@ const Slidebar = () => {
             alt="image"
             height={15}
             width={15}
-            className="hover:bg-black trasition-all duration-300"
+            className="hover:bg-black trasition-all duration-300 cursor-pointer"
             onClick={() => {
               router.push("https://www.instagram.com/lohithpoojary106");
             }}
@@ -58,7 +58,7 @@ const Slidebar = () => {
             alt="image"
             height={15}
             width={15}
-            className="hover:bg-black trasition-all duration-300"
+            className="hover:bg-black trasition-all duration-300 cursor-pointer"
             onClick={() => {
               router.push(
                 "https://www.linkedin.com/in/lohith-poojary-64a741238/"
@@ -70,7 +70,7 @@ const Slidebar = () => {
             alt="image"
             height={15}
             width={15}
-            className="hover:bg-black trasition-all duration-300"
+            className="hover:bg-black trasition-all duration-300 cursor-pointer"
             onClick={() => {
               router.push("https://github.com/lohithpoojary64");
             }}
