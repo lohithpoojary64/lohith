@@ -1,6 +1,6 @@
 import React from "react";
 
-l
+
 
 const SelectedProjects = () => {
   return (
